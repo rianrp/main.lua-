@@ -33,3 +33,14 @@ function love.draw()
    love.graphics.circle("fill", circle.x, circle.y, 50)
 end
 
+#coresparaserusadas
+
+--- roxo 1,0,1 
+--- branco 1,1,1 
+--- ciano 0,1,1 
+--- azul 0,0,1 
+--- verde 0,1,0 
+--- amarelo 1,1,0 
+--- vermelho 1,0,0 
+
+
